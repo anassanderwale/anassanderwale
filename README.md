@@ -1,16 +1,29 @@
-## Hi there 👋
+# Anas Sanderwale
 
-<!--
-**anassanderwale/anassanderwale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Associate Software Engineer | Java Backend Developer | Spring Boot
 
-Here are some ideas to get you started:
+Building scalable backend systems, RESTful APIs, and enterprise ERP solutions through clean architecture and efficient database design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I Do**
+
+• Develop enterprise-grade backend systems using Java and Spring Boot  
+• Design and build RESTful APIs for scalable applications  
+• Optimize SQL queries and database schemas for business workflows  
+• Implement authentication and role-based access control systems  
+• Contribute to the full SDLC cycle from development to deployment  
+
+**Tech Stack**
+
+Databases: MySQL, Oracle  
+
+Backend: Spring Boot, REST APIs, Microservices  
+
+Frontend: ReactJS, Angular  
+
+Languages: Java, SQL, JavaScript, HTML, CSS  
+
+Tools: Git, GitHub, Postman, Swagger, Maven  
+
+**Approach**
+
+Clean backend architecture • Scalable system design • Efficient database solutions • Continuous learning
