@@ -14,15 +14,15 @@ Building scalable backend systems, RESTful APIs, and enterprise ERP solutions th
 
 **Tech Stack**
 
-Databases: MySQL, Oracle  
+**Databases:** MySQL, Oracle  
 
-Backend: Spring Boot, REST APIs, Microservices  
+**Backend:** Spring Boot, REST APIs, Microservices  
 
-Frontend: ReactJS, Angular  
+**Frontend:** ReactJS, Angular  
 
-Languages: Java, SQL, JavaScript, HTML, CSS  
+**Languages:** Java, SQL, JavaScript, HTML, CSS  
 
-Tools: Git, GitHub, Postman, Swagger, Maven  
+**Tools:** Git, Postman, Swagger, Maven  
 
 **Approach**
 
